@@ -1,0 +1,8 @@
+lang: zh_CN
+theme: jekyll-theme-architect
+title: 鸿蒙开发工程师培训
+description: 致力于做中国最好的鸿蒙开发工程师培训品牌
+show_downloads: false
+github:
+  is_project_page: false
+  is_user_page: false
